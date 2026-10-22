@@ -556,6 +556,7 @@ API | Description | Auth | HTTPS | CORS |
 | [OKEx](https://www.okex.com/docs/) | Cryptocurrency exchange based in Seychelles | `apiKey` | Yes | Unknown |
 | [Paribu](https://docs.paribu.com/api) | Turkish cryptocurrency exchange with real-time market data, trading and WebSocket streams | `apiKey` | Yes | No |
 | [Poloniex](https://docs.poloniex.com) | US based digital asset exchange | `apiKey` | Yes | Unknown |
+| [PriceCheck NG](https://pricecheckng.com.ng/api.html) | Crypto prices in naira, FX rates and market data | `apiKey` | Yes | Yes |
 | [PumpFunData](https://pumpfundata.com/docs) | Historical Pump.fun and PumpSwap AMM swap data as hourly Parquet files | `apiKey` | Yes | Unknown |
 | [Shumi](https://docs.shumi.ai/api-reference/introduction) | Crypto market data: prices, trends, funding rates, sentiment, narratives and market regime | `apiKey` | Yes | Yes |
 | [Solana JSON RPC](https://docs.solana.com/developing/clients/jsonrpc-api) | Provides various endpoints to interact with the Solana Blockchain | No | Yes | Unknown |
